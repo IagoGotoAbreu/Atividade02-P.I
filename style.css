@@ -1,0 +1,27 @@
+.div_a{
+    background-color: #1c7e58;
+    width: 300px;
+    height: 200px;
+}
+.div_b{
+    background-color: #8f67ec;
+    width: 60%;
+    height: 75%;
+}
+.div_c{
+    color: purple;
+    background-color: black;
+    font-size: 30px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bold;
+}
+.div_d{
+    width: 50%;
+    height: 40vh;
+    background-color: rgb(72, 228, 220);
+}
+.div_e{
+    width: 20%;
+    height: 75%;
+    background-color: rgb(236, 233, 26);
+}
